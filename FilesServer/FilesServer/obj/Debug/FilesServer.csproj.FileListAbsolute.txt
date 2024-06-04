@@ -1,0 +1,101 @@
+C:\Users\Owner\source\repos\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+C:\Users\Owner\source\repos\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+C:\Users\Owner\source\repos\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+C:\Users\Owner\source\repos\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+C:\Users\Owner\source\repos\FilesServer\FilesServer\obj\Debug\FilesServer.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CopyComplete
+C:\Users\Owner\source\repos\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+C:\Users\Owner\source\repos\FilesServer\FilesServer\obj\Debug\FilesServer.pdb
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\bin\Debug\NAudio.dll
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\bin\Debug\NAudio.xml
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.csprojResolveAssemblyReference.cache
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+D:\Users\User\Documents\gal\פרויקטים 2020\נבון\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.pdb
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\bin\Debug\NAudio.dll
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\bin\Debug\NAudio.xml
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.csprojAssemblyReference.cache
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CoreCompileInputs.cache
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CopyComplete
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+D:\project\c#\extra2\vs1\vs1\FilesServer\FilesServer\obj\Debug\FilesServer.pdb
+D:\project\c#\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+D:\project\c#\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+D:\project\c#\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+D:\project\c#\FilesServer\FilesServer\bin\Debug\NAudio.dll
+D:\project\c#\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+D:\project\c#\FilesServer\FilesServer\bin\Debug\NAudio.xml
+D:\project\c#\FilesServer\FilesServer\obj\Debug\FilesServer.csprojAssemblyReference.cache
+D:\project\c#\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CoreCompileInputs.cache
+D:\project\c#\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CopyComplete
+D:\project\c#\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+D:\project\c#\FilesServer\FilesServer\obj\Debug\FilesServer.pdb
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\bin\Debug\NAudio.dll
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\bin\Debug\NAudio.xml
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CopyComplete
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+C:\Users\HP\Documents\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.pdb
+F:\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.csprojAssemblyReference.cache
+F:\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CoreCompileInputs.cache
+F:\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+F:\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.pdb
+F:\Final project\FilesServer\FilesServer\bin\Debug\FileShareDB.accdb
+F:\Final project\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+F:\Final project\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+F:\Final project\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+F:\Final project\FilesServer\FilesServer\bin\Debug\NAudio.dll
+F:\Final project\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+F:\Final project\FilesServer\FilesServer\bin\Debug\NAudio.xml
+F:\Final project\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CopyComplete
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\bin\Debug\FileShareDB.accdb
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\bin\Debug\NAudio.dll
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\bin\Debug\NAudio.xml
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\obj\Debug\FilesServer.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CopyComplete
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+C:\Users\Owner\Documents\דרכא\נעה\FilesServer\FilesServer\obj\Debug\FilesServer.pdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\bin\Debug\FileShareDB.accdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\bin\Debug\NAudio.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\bin\Debug\NAudio.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.AssemblyReference.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.SuggestedBindingRedirects.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CoreCompileInputs.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CopyComplete
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\FilesServer\FilesServer\obj\Debug\FilesServer.pdb
+C:\project_gal\FilesServer\FilesServer\bin\Debug\FileShareDB.accdb
+C:\project_gal\FilesServer\FilesServer\bin\Debug\FilesServer.exe.config
+C:\project_gal\FilesServer\FilesServer\bin\Debug\FilesServer.exe
+C:\project_gal\FilesServer\FilesServer\bin\Debug\FilesServer.pdb
+C:\project_gal\FilesServer\FilesServer\bin\Debug\NAudio.dll
+C:\project_gal\FilesServer\FilesServer\bin\Debug\System.Drawing.Common.dll
+C:\project_gal\FilesServer\FilesServer\bin\Debug\NAudio.xml
+C:\project_gal\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.AssemblyReference.cache
+C:\project_gal\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.SuggestedBindingRedirects.cache
+C:\project_gal\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CoreCompileInputs.cache
+C:\project_gal\FilesServer\FilesServer\obj\Debug\FilesServer.csproj.CopyComplete
+C:\project_gal\FilesServer\FilesServer\obj\Debug\FilesServer.exe
+C:\project_gal\FilesServer\FilesServer\obj\Debug\FilesServer.pdb

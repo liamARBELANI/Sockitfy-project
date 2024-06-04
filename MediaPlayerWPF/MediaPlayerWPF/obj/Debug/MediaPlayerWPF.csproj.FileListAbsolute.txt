@@ -1,0 +1,174 @@
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.g.resources
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe.config
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.exe
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.pdb
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe.config
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.pdb
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.baml
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.g.cs
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.g.cs
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.cache
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.g.resources
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.Properties.Resources.resources
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.GenerateResource.Cache
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CoreCompileInputs.cache
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.exe
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.pdb
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csprojAssemblyReference.cache
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.baml
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.g.cs
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.dll
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.dll
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.xml
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.xml
+D:\project\c#\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CopyComplete
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe.config
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.pdb
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.xml
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.baml
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.baml
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.g.cs
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.g.cs
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.cache
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.g.resources
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.Properties.Resources.resources
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CopyComplete
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.exe
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.pdb
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.lref
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.baml
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignInWindow.g.cs
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignInWindow.baml
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignUpWindow.g.cs
+C:\Users\HP\Documents\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignUpWindow.baml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe.config
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.pdb
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignColors.dll
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\Newtonsoft.Json.dll
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.dll
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignColors.pdb
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\Newtonsoft.Json.xml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.xml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csprojAssemblyReference.cache
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.baml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.baml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.g.cs
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.g.cs
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignInWindow.g.cs
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignUPWindow.g.cs
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.g.cs
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.cache
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.lref
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.baml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignInWindow.baml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignUPWindow.baml
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.g.resources
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.Properties.Resources.resources
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.GenerateResource.cache
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CoreCompileInputs.cache
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CopyComplete
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.exe
+F:\Final project\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.pdb
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.baml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.g.cs
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignInWindow.g.cs
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignUPWindow.g.cs
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.cache
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.lref
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.exe
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.pdb
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe.config
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.pdb
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.xml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.baml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignInWindow.baml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignUPWindow.baml
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.g.resources
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.Properties.Resources.resources
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CopyComplete
+C:\Users\Owner\Documents\דרכא\נעה\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csprojAssemblyReference.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe.config
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.exe
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MediaPlayerWPF.pdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignColors.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\Newtonsoft.Json.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\DocumentFormat.OpenXml.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignColors.pdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\Newtonsoft.Json.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\Debug\System.IO.Packaging.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.AssemblyReference.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.SuggestedBindingRedirects.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MainWindow.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SecondWindow.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignInWindow.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignUPWindow.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF_MarkupCompile.lref
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\App.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignInWindow.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\SignUPWindow.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.g.resources
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.Properties.Resources.resources
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.GenerateResource.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CoreCompileInputs.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.csproj.CopyComplete
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.exe
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\Debug\MediaPlayerWPF.pdb

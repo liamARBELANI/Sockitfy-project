@@ -1,0 +1,90 @@
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MediaPlayerWPF.exe.config
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MediaPlayerWPF.exe
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MediaPlayerWPF.pdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignColors.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\Newtonsoft.Json.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\System.IO.Packaging.dll
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignColors.pdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\Newtonsoft.Json.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\System.IO.Packaging.xml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.AssemblyReference.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.SuggestedBindingRedirects.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MainWindow.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SecondWindow.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MainWindow.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SecondWindow.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SignInWindow.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SignUPWindow.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\App.g.cs
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF_MarkupCompile.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF_MarkupCompile.lref
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\App.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SignInWindow.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SignUPWindow.baml
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.g.resources
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.Properties.Resources.resources
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.GenerateResource.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.CoreCompileInputs.cache
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.CopyComplete
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.exe
+D:\users\liam arbelani\שולחן עבודה\הצעת פרויקט של גל\codes\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.pdb
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MediaPlayerWPF.exe.config
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MediaPlayerWPF.exe
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MediaPlayerWPF.pdb
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignColors.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\Newtonsoft.Json.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\System.IO.Packaging.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\DocumentFormat.OpenXml.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignColors.pdb
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\Newtonsoft.Json.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\System.IO.Packaging.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.AssemblyReference.cache
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.SuggestedBindingRedirects.cache
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MainWindow.baml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SecondWindow.baml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MainWindow.g.cs
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SecondWindow.g.cs
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SignInWindow.g.cs
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SignUPWindow.g.cs
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\App.g.cs
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF_MarkupCompile.cache
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF_MarkupCompile.lref
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\App.baml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SignInWindow.baml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\SignUPWindow.baml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.g.resources
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.Properties.Resources.resources
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.GenerateResource.cache
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.CoreCompileInputs.cache
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.csproj.CopyComplete
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.exe
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\obj\x64\Debug\MediaPlayerWPF.pdb
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\Microsoft.Win32.Registry.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.Asio.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.Core.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.Midi.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.Wasapi.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.WinForms.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.WinMM.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\System.Security.AccessControl.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\Microsoft.Win32.Registry.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.Asio.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.Core.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.Midi.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.Wasapi.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.WinForms.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\NAudio.WinMM.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\System.Security.AccessControl.xml
+C:\project_gal\MediaPlayerWPF\MediaPlayerWPF\bin\x64\Debug\System.Security.Principal.Windows.xml

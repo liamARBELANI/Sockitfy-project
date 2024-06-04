@@ -1,0 +1,13 @@
+C:\project_gal\FilesServer\FilesServer\bin\x64\Debug\FileShareDB.accdb
+C:\project_gal\FilesServer\FilesServer\bin\x64\Debug\FilesServer.exe.config
+C:\project_gal\FilesServer\FilesServer\bin\x64\Debug\FilesServer.exe
+C:\project_gal\FilesServer\FilesServer\bin\x64\Debug\FilesServer.pdb
+C:\project_gal\FilesServer\FilesServer\bin\x64\Debug\NAudio.dll
+C:\project_gal\FilesServer\FilesServer\bin\x64\Debug\System.Drawing.Common.dll
+C:\project_gal\FilesServer\FilesServer\bin\x64\Debug\NAudio.xml
+C:\project_gal\FilesServer\FilesServer\obj\x64\Debug\FilesServer.csproj.AssemblyReference.cache
+C:\project_gal\FilesServer\FilesServer\obj\x64\Debug\FilesServer.csproj.SuggestedBindingRedirects.cache
+C:\project_gal\FilesServer\FilesServer\obj\x64\Debug\FilesServer.csproj.CoreCompileInputs.cache
+C:\project_gal\FilesServer\FilesServer\obj\x64\Debug\FilesServer.csproj.CopyComplete
+C:\project_gal\FilesServer\FilesServer\obj\x64\Debug\FilesServer.exe
+C:\project_gal\FilesServer\FilesServer\obj\x64\Debug\FilesServer.pdb

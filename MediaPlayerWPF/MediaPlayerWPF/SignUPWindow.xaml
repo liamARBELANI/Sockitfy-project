@@ -1,0 +1,67 @@
+﻿<Window x:Class="MediaPlayerWPF.SignUPWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+          xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        
+        xmlns:local="clr-namespace:MediaPlayerWPF"
+        mc:Ignorable="d"
+        Title="SignUPWindow" Height="455" Width="790" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+    <Grid >
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.1,0" EndPoint="0.9,1">
+                <GradientStop Color="Blue" Offset="1" />
+                <GradientStop Color="#D94448" Offset="0"/>
+
+
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border BorderBrush="#100E17" BorderThickness="5"/>
+
+        <TextBlock Height="47" HorizontalAlignment="Left" Margin="229,20,0,0" Foreground="White" Name="textBlockHeading" Text="Sign Up" VerticalAlignment="Top" Width="110"  FontSize="30" FontStretch="ExtraCondensed" FontFamily="Impact"/>
+        <Button Margin="603,10,119,411" Foreground="White" Content="Login" Cursor="Hand" Click="SignIn_Click" FontSize="25" FontFamily="Impact">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <TextBlock TextDecorations="Underline">  
+                    <ContentPresenter />
+                    </TextBlock>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Foreground" Value="Navy" />
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Foreground" Value="Red" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <!--end Button as a Link button using style-->
+        <Grid Margin="40,0,154,39" Background="#100E17" Height="329" VerticalAlignment="Bottom">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="252*" />
+                <!--   <RowDefinition Height="12*" />-->
+            </Grid.RowDefinitions>
+            <TextBlock Height="20" HorizontalAlignment="Left" Margin="67,0,0,0" x:Name ="errormessage" VerticalAlignment="Top" Width="247"  OpacityMask="Crimson" Foreground="#FFE5572C" />
+
+            <materialDesign:PackIcon Kind="User" Width="25" Height="Auto" Foreground="White" VerticalAlignment="Bottom" Margin="136,0,0,284" RenderTransformOrigin="-0.54,-11.08"/>
+            <materialDesign:PackIcon Kind="User" Width="25" Height="25" Foreground="White" RenderTransformOrigin="3.94,2.7" Margin="136,50,0,0"></materialDesign:PackIcon>
+            <materialDesign:PackIcon Kind="Email"  Width="25" Height="25" Foreground="White" Margin="136,80,0,0"></materialDesign:PackIcon>
+            <materialDesign:PackIcon Kind="Lock" Width="25" Height="25" Foreground="White" Margin="136,110,0,0"></materialDesign:PackIcon>
+            <materialDesign:PackIcon Kind="Lock" Width="25" Height="25" Foreground="White" Margin="136,148,0,0"></materialDesign:PackIcon>
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="183,20,0,0" materialDesign:HintAssist.Hint="Enter UserFname " Foreground="White"  Name="textBoxFirstName" VerticalAlignment="Top" Width="222" TextChanged="TextBoxFirstName_TextChanged" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="183,50,0,0" Foreground="White" materialDesign:HintAssist.Hint="Enter UserLname" Name="textBoxLastName" VerticalAlignment="Top" Width="222" TextChanged="TextBoxLastName_TextChanged" />
+            <TextBox Height="27" HorizontalAlignment="Left" Margin="183,80,0,0"  Foreground="White" materialDesign:HintAssist.Hint="Enter Email" Name="textBoxEmail" VerticalAlignment="Top" Width="222"  />
+            <PasswordBox Height="23" HorizontalAlignment="Left" Margin="183,112,0,0" materialDesign:HintAssist.Hint="********" Foreground="White" Name="passwordBox" VerticalAlignment="Top" Width="222" />
+            <!--For password-->
+            <PasswordBox Height="23" HorizontalAlignment="Left" Margin="183,149,0,0" materialDesign:HintAssist.Hint="Enter the same password " Foreground="White" Name="passwordBoxConfirm" VerticalAlignment="Top" Width="222" />
+
+            <Button Content="Submit" Height="35" HorizontalAlignment="Left" Margin="268,208,0,0" BorderBrush="#D94448" Background="#D94448" Name="Submit" VerticalAlignment="Top" Width="89" Click="Submit_Click" />
+            <Button Content="Reset" Height="35" HorizontalAlignment="Left" Margin="164,208,0,0" BorderBrush="#D94448" Background="#D94448" Name="button2" VerticalAlignment="Top" Width="70" Click="button2_Click" RenderTransformOrigin="0.814,0.457" />
+            <Button Content="Cancel" Height="35" HorizontalAlignment="Right" Margin="0,208,122,0" BorderBrush="#D94448" Background="#D94448" Name="button3" VerticalAlignment="Top" Width="82" Click="button3_Click" RenderTransformOrigin="-0.921,0.5" />
+        </Grid>
+    </Grid>
+</Window>
